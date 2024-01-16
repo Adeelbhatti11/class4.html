@@ -1,0 +1,21 @@
+.box{
+    width: 400px;
+    border: 5px solid red;
+    background-color: antiquewhite;
+    float: left;
+    box-shadow: 15px 10px 10px 10px gray;
+    line-height: 100px;
+}
+.box2{
+    width: 300px;
+    border: 5px dashed greenyellow;
+    background-color: green;
+    float: right;
+}
+.box3{
+    width: 100%;
+    border: 5px solid violet;
+    background-color: goldenrod;
+    
+    clear:both;
+}
